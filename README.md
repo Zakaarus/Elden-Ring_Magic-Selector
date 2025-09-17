@@ -1,4 +1,4 @@
-I rushed this out but even then it took me like. 19 days of figuring stuff out. I'll get to fixing it eventuallyy
+I rushed this out but even then it took me like. 19 days of figuring stuff out (this is my first time using rust + making a .dll mod). I'll get to fixing it eventuallyy
 
 ty to people on discord for being patient with me and answering my questions
 
