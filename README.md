@@ -4,6 +4,8 @@ ty to people on discord for being patient with me and answering my questions
 
 ?ServerName?
 - axd1x8a 
+- chainfailure
+- _indura
 
 libmem psychiatric hospital
 - Rdbo
@@ -16,5 +18,5 @@ The Grand Archives
 
 
 libs from:
-- Rdbo (libmem)
-- vswarte (elden ring rust crate + I used the special-effect example as a template)
+- Rdbo (libmem) (though this version currently doesn't use it, but it might again in the future)
+- chainfailure (elden ring rust crate + I used the special-effect example as a template)
